@@ -8,7 +8,7 @@ Commit      : unknown
 Message     : 
 Author      : 
 Committed   : 
-Checked     : 2026-10-25 19:47:33 CDT
+Checked     : 2026-10-26 20:24:00 CDT
 Python      : 3.14.8
 
 ================================================================
@@ -36,13 +36,12 @@ CHECK RESULTS
 --- Git and GitHub (required for your points to count) ---
 [PASS] Git is installed
 [PASS] This folder is a Git repository
-[FAIL] You have committed your own work
-   > So far there is only the template's first commit.
-   > In Source Control, type a message and click Commit.
+[PASS] You have committed your own work
+[FAIL] Your latest changes are committed
+   > main.py or AI_NOTES.md has changes that are not committed yet.
+   > Save, then Commit in Source Control, so GitHub has what check.py tested.
 
 POINTS FROM check.py: 40 / 40
-
-NOTE: AI_NOTES.md still has (write here) placeholders. Fill it in before you submit.
 
 ================================================================
 PROGRAM OUTPUT  (typed: 14601, 15, 1, 2, 3, 4, 5, Q)
@@ -54,7 +53,7 @@ Enter the total cost for one year: Enter the credits this semester:
 3. Cost per class day
 4. Cost per credit
 5. Cost per CS 1430 class
-6. Worth It?
+6. Cost with YouTube Premium per semester
 Q. Quit
 Choose an option: Cost per semester: $7300.50
 
@@ -64,7 +63,7 @@ Choose an option: Cost per semester: $7300.50
 3. Cost per class day
 4. Cost per credit
 5. Cost per CS 1430 class
-6. Worth It?
+6. Cost with YouTube Premium per semester
 Q. Quit
 Choose an option: Cost per month: $1622.33
 
@@ -74,7 +73,7 @@ Choose an option: Cost per month: $1622.33
 3. Cost per class day
 4. Cost per credit
 5. Cost per CS 1430 class
-6. Worth It?
+6. Cost with YouTube Premium per semester
 Q. Quit
 Choose an option: Cost per class day: $97.34
 
@@ -84,7 +83,7 @@ Choose an option: Cost per class day: $97.34
 3. Cost per class day
 4. Cost per credit
 5. Cost per CS 1430 class
-6. Worth It?
+6. Cost with YouTube Premium per semester
 Q. Quit
 Choose an option: Cost per credit: $486.70
 
@@ -94,7 +93,7 @@ Choose an option: Cost per credit: $486.70
 3. Cost per class day
 4. Cost per credit
 5. Cost per CS 1430 class
-6. Worth It?
+6. Cost with YouTube Premium per semester
 Q. Quit
 Choose an option: Cost per CS 1430 class: $32.45
 
@@ -104,6 +103,6 @@ Choose an option: Cost per CS 1430 class: $32.45
 3. Cost per class day
 4. Cost per credit
 5. Cost per CS 1430 class
-6. Worth It?
+6. Cost with YouTube Premium per semester
 Q. Quit
 Choose an option:
